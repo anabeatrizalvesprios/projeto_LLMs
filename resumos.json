@@ -1,0 +1,350 @@
+{
+  "representantes": [
+    {
+      "codigo": 1,
+      "nome": "REPRESENTANTE A",
+      "regiao": "SUL",
+      "gerente": "MARCOS SILVA",
+      "supervisora": "ANA REGINA",
+      "total_clientes": 20,
+      "clientes_por_estado": {
+        "SP": 3,
+        "RJ": 3,
+        "CE": 2,
+        "DF": 2,
+        "PE": 1,
+        "AM": 1,
+        "GO": 1,
+        "PA": 1,
+        "MA": 1,
+        "AL": 1,
+        "MG": 1,
+        "PR": 1,
+        "RS": 1,
+        "BA": 1
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 20
+      },
+      "top_cnaes": {
+        "4619-2/00": 4,
+        "4713-0/02": 4,
+        "6201-5/01": 3
+      },
+      "resumo_executivo": "A carteira do Representante A demonstra excelente saúde cadastral, contando com 100% dos seus 20 clientes em situação ativa. Em relação à cobertura geográfica, identifica-se uma alta pulverização nacional, com o atendimento distribuído por 14 estados diferentes. O principal ponto de atenção é a forte incoerência com a sua região designada (Sul), que representa apenas 10% da sua base de clientes (PR e RS), enquanto a grande maioria das contas está dispersa pelas regiões Sudeste, Nordeste, Centro-Oeste e Norte. Essa dispersão territorial excessiva pode gerar ineficiências operacionais e custos logísticos elevados, recomendando-se uma readequação no foco geográfico de atuação."
+    },
+    {
+      "codigo": 2,
+      "nome": "REPRESENTANTE B",
+      "regiao": "SUDESTE",
+      "gerente": "ALESSANDRA SOUZA",
+      "supervisora": "CARLA REIS",
+      "total_clientes": 65,
+      "clientes_por_estado": {
+        "SP": 12,
+        "RJ": 11,
+        "PE": 4,
+        "AM": 4,
+        "GO": 4,
+        "PA": 4,
+        "MA": 4,
+        "AL": 4,
+        "MG": 3,
+        "PR": 3,
+        "RS": 3,
+        "BA": 3,
+        "CE": 3,
+        "DF": 3
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 65
+      },
+      "top_cnaes": {
+        "6201-5/01": 11,
+        "7020-4/00": 11,
+        "7319-0/02": 11
+      },
+      "resumo_executivo": "A carteira de clientes do Representante B apresenta excelente saúde cadastral, com 100% dos seus 65 clientes em situação ativa e forte concentração nos setores de tecnologia, consultoria e publicidade. O principal ponto de atenção reside na excessiva dispersão geográfica de sua atuação, cobrindo 14 estados por todo o país, apesar de o representante estar oficialmente alocado na região Sudeste. Como cerca de 60% da sua base está localizada fora do Sudeste em estados distantes como PE, AM e PA, há um claro desalinhamento territorial que pode comprometer a eficiência operacional. Recomenda-se reavaliar a distribuição geográfica da carteira para adensar a presença na sua região de origem, aproveitando a plena atividade dos clientes atuais."
+    },
+    {
+      "codigo": 3,
+      "nome": "REPRESENTANTE C",
+      "regiao": "CENTRO-OESTE",
+      "gerente": "RODRIGO OLIVEIRA",
+      "supervisora": "JULIANA LIMA",
+      "total_clientes": 34,
+      "clientes_por_estado": {
+        "RJ": 5,
+        "SP": 5,
+        "MG": 2,
+        "PR": 2,
+        "RS": 2,
+        "BA": 2,
+        "CE": 2,
+        "DF": 2,
+        "PE": 2,
+        "AM": 2,
+        "GO": 2,
+        "PA": 2,
+        "MA": 2,
+        "AL": 2
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 34
+      },
+      "top_cnaes": {
+        "4713-0/02": 6,
+        "6201-5/01": 6,
+        "7020-4/00": 6
+      },
+      "resumo_executivo": "A carteira do Representante C demonstra excelente saúde cadastral, contando com 100% dos seus 34 clientes em situação ativa e sem registros de pendências. No entanto, há um ponto de atenção crítico referente à cobertura geográfica, que se encontra excessivamente pulverizada por 14 estados. Apesar de o profissional ser designado para a região Centro-Oeste, a maior fatia da sua base está localizada no Sudeste (RJ e SP), enquanto sua região oficial responde por apenas quatro clientes somados entre GO e DF. Recomenda-se uma reavaliação estratégica dessa carteira para otimizar a logística de atendimento e alinhar a atuação comercial à sua região geográfica de origem."
+    },
+    {
+      "codigo": 4,
+      "nome": "REPRESENTANTE D",
+      "regiao": "NORDESTE",
+      "gerente": "PATRICIA COSTA",
+      "supervisora": "BEATRIZ MELO",
+      "total_clientes": 81,
+      "clientes_por_estado": {
+        "RJ": 14,
+        "SP": 13,
+        "MG": 5,
+        "PR": 5,
+        "RS": 5,
+        "BA": 5,
+        "CE": 5,
+        "DF": 5,
+        "PE": 4,
+        "AM": 4,
+        "GO": 4,
+        "PA": 4,
+        "MA": 4,
+        "AL": 4
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 81
+      },
+      "top_cnaes": {
+        "8211-3/00": 14,
+        "4619-2/00": 14,
+        "4713-0/02": 14
+      },
+      "resumo_executivo": "A carteira do Representante D apresenta excelente saúde cadastral, contando com 100% dos seus 81 clientes em situação ativa e sem histórico de contas suspensas ou canceladas. No entanto, há um ponto crítico de atenção referente à cobertura geográfica, pois, embora o representante esteja alocado na região Nordeste, sua maior concentração de clientes está no Sudeste, especialmente no Rio de Janeiro (14) e em São Paulo (13). Além disso, a carteira encontra-se altamente pulverizada por 14 estados de todas as regiões do país, mantendo apenas 22 clientes na sua região de atuação oficial. É recomendável revisar a delimitação territorial do representante junto à gerência para otimizar o atendimento e alinhar a estratégia regional da empresa."
+    },
+    {
+      "codigo": 5,
+      "nome": "REPRESENTANTE E",
+      "regiao": "NORTE",
+      "gerente": "FABIO SANTOS",
+      "supervisora": "FERNANDA DIAS",
+      "total_clientes": 80,
+      "clientes_por_estado": {
+        "SP": 14,
+        "RJ": 13,
+        "PE": 5,
+        "AM": 5,
+        "GO": 5,
+        "PA": 5,
+        "MA": 5,
+        "AL": 4,
+        "MG": 4,
+        "PR": 4,
+        "RS": 4,
+        "BA": 4,
+        "CE": 4,
+        "DF": 4
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 80
+      },
+      "top_cnaes": {
+        "6201-5/01": 14,
+        "7020-4/00": 14,
+        "7319-0/02": 13
+      },
+      "resumo_executivo": "O Representante E possui uma carteira de 80 clientes com excelente saúde cadastral, mantendo 100% das contas em situação ativa e com forte aderência aos setores de tecnologia, consultoria e publicidade. Contudo, identifica-se um ponto de atenção crítico referente à cobertura geográfica, visto que, apesar de estar alocado na Região Norte, apenas 10 clientes pertencem a essa área (AM e PA). A base encontra-se altamente pulverizada em 14 estados, apresentando uma forte concentração fora de seu território oficial, com São Paulo e Rio de Janeiro representando mais de um terço do total de clientes. Recomenda-se reavaliar a malha de atendimento do representante para alinhar sua região geográfica oficial à real distribuição de seus clientes e otimizar a eficiência comercial."
+    },
+    {
+      "codigo": 6,
+      "nome": "REPRESENTANTE F",
+      "regiao": "SUL",
+      "gerente": "MARCOS SILVA",
+      "supervisora": "ANA REGINA",
+      "total_clientes": 17,
+      "clientes_por_estado": {
+        "SP": 4,
+        "RJ": 2,
+        "AL": 1,
+        "MG": 1,
+        "PR": 1,
+        "RS": 1,
+        "BA": 1,
+        "CE": 1,
+        "DF": 1,
+        "PE": 1,
+        "AM": 1,
+        "GO": 1,
+        "PA": 1
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 17
+      },
+      "top_cnaes": {
+        "4619-2/00": 4,
+        "7319-0/02": 3,
+        "8211-3/00": 3
+      },
+      "resumo_executivo": "O REPRESENTANTE F apresenta uma carteira de clientes com excelente saúde cadastral, possuindo 100% dos seus 17 clientes na situação ativa. No entanto, a cobertura geográfica revela um ponto crítico de atenção devido à extrema pulverização em 13 estados de diferentes regiões do país, o que contrasta com sua alocação oficial na região Sul, onde possui apenas dois clientes (PR e RS). Embora haja uma leve concentração em São Paulo (4 clientes), a dispersão nacional excessiva compromete a eficiência logística e o foco regional da atuação comercial. Recomenda-se um realinhamento territorial da carteira junto à gestão para otimizar o atendimento e reduzir os custos operacionais."
+    },
+    {
+      "codigo": 7,
+      "nome": "REPRESENTANTE G",
+      "regiao": "SUDESTE",
+      "gerente": "ALESSANDRA SOUZA",
+      "supervisora": "CARLA REIS",
+      "total_clientes": 36,
+      "clientes_por_estado": {
+        "RJ": 6,
+        "SP": 6,
+        "MA": 2,
+        "AL": 2,
+        "MG": 2,
+        "PR": 2,
+        "RS": 2,
+        "BA": 2,
+        "CE": 2,
+        "DF": 2,
+        "PE": 2,
+        "AM": 2,
+        "GO": 2,
+        "PA": 2
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 36
+      },
+      "top_cnaes": {
+        "6201-5/01": 6,
+        "7020-4/00": 6,
+        "7319-0/02": 6
+      },
+      "resumo_executivo": "A carteira do representante apresenta excelente saúde cadastral, registrando 100% dos seus 36 clientes em situação ativa. No entanto, a cobertura geográfica revela um ponto crítico de atenção: apesar de estar alocado na região Sudeste, sua atuação é extremamente pulverizada em 14 estados de todas as regiões do país. Embora São Paulo e Rio de Janeiro concentrem o maior volume (6 clientes cada), há uma dispersão ineficiente de apenas 2 clientes por estado em praças distantes, como Amazonas, Pará e Maranhão. Recomenda-se reavaliar essa distribuição territorial para otimizar a rotina de atendimento e reorganizar a carteira de acordo com o foco regional planejado."
+    },
+    {
+      "codigo": 8,
+      "nome": "REPRESENTANTE H",
+      "regiao": "CENTRO-OESTE",
+      "gerente": "RODRIGO OLIVEIRA",
+      "supervisora": "JULIANA LIMA",
+      "total_clientes": 35,
+      "clientes_por_estado": {
+        "RJ": 6,
+        "SP": 5,
+        "MA": 2,
+        "AL": 2,
+        "MG": 2,
+        "PR": 2,
+        "RS": 2,
+        "BA": 2,
+        "CE": 2,
+        "DF": 2,
+        "PE": 2,
+        "AM": 2,
+        "GO": 2,
+        "PA": 2
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 35
+      },
+      "top_cnaes": {
+        "6201-5/01": 6,
+        "7020-4/00": 6,
+        "7319-0/02": 6
+      },
+      "resumo_executivo": "A carteira do Representante H apresenta excelente saúde operacional, contando com 100% dos seus 35 clientes em situação cadastral ativa. No entanto, o principal ponto de atenção reside na cobertura geográfica, que se mostra extremamente pulverizada em 14 estados e desalinhada com a sua região oficial de atuação (Centro-Oeste). Apenas 4 clientes estão localizados no Centro-Oeste (GO e DF), enquanto a maior parte da base concentra-se no Sudeste, com destaque para Rio de Janeiro (6) e São Paulo (5). Essa alta dispersão territorial fora do seu foco regional pode comprometer a eficiência do atendimento e exige uma readequação no alinhamento da carteira."
+    },
+    {
+      "codigo": 9,
+      "nome": "REPRESENTANTE I",
+      "regiao": "NORDESTE",
+      "gerente": "PATRICIA COSTA",
+      "supervisora": "BEATRIZ MELO",
+      "total_clientes": 65,
+      "clientes_por_estado": {
+        "RJ": 10,
+        "SP": 9,
+        "MG": 4,
+        "PR": 4,
+        "RS": 4,
+        "BA": 4,
+        "CE": 4,
+        "DF": 4,
+        "PE": 4,
+        "AM": 4,
+        "GO": 4,
+        "PA": 4,
+        "MA": 3,
+        "AL": 3
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 65
+      },
+      "top_cnaes": {
+        "4713-0/02": 11,
+        "6201-5/01": 11,
+        "7020-4/00": 11
+      },
+      "resumo_executivo": "O REPRESENTANTE I possui uma carteira com excelente saúde cadastral, apresentando 100% dos seus 65 clientes na situação ativa. Como principal ponto de atenção, destaca-se uma forte incoerência na cobertura geográfica: embora esteja alocado na região Nordeste, a maior parte da sua base está concentrada no Sudeste (RJ e SP somam 19 clientes), além de apresentar alta pulverização por estados de outras regiões do país. Adicionalmente, observa-se uma elevada concentração setorial, onde mais de 50% dos clientes pertencem a apenas três CNAEs principais. Recomenda-se um realinhamento territorial para otimizar a atuação do representante em sua região de origem e reduzir custos com a dispersão de atendimento."
+    },
+    {
+      "codigo": 10,
+      "nome": "REPRESENTANTE J",
+      "regiao": "NORTE",
+      "gerente": "FABIO SANTOS",
+      "supervisora": "FERNANDA DIAS",
+      "total_clientes": 5,
+      "clientes_por_estado": {
+        "SP": 2,
+        "MA": 1,
+        "RJ": 1,
+        "AL": 1
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 5
+      },
+      "top_cnaes": {
+        "4619-2/00": 1,
+        "4713-0/02": 1,
+        "6201-5/01": 1
+      },
+      "resumo_executivo": "O Representante J apresenta uma carteira reduzida de 5 clientes, porém com excelente saúde cadastral, registrando 100% de contas ativas. O principal ponto de atenção reside na grave inconsistência da cobertura geográfica: embora o representante esteja alocado na região Norte, nenhum de seus clientes pertence a essa localidade. Sua base encontra-se pulverizada fora de seu escopo regional, dividida entre os estados de São Paulo, Rio de Janeiro, Maranhão e Alagoas. Recomenda-se alinhar com a gestão de Fabio Santos para redirecionar os esforços de prospecção para a região de origem ou formalizar a readequação de sua área de atuação."
+    }
+  ],
+  "gerentes": [
+    {
+      "GERENTE": "ALESSANDRA SOUZA",
+      "total_representantes": 3,
+      "total_clientes": 129
+    },
+    {
+      "GERENTE": "MARCOS SILVA",
+      "total_representantes": 3,
+      "total_clientes": 70
+    },
+    {
+      "GERENTE": "PATRICIA COSTA",
+      "total_representantes": 2,
+      "total_clientes": 146
+    },
+    {
+      "GERENTE": "FABIO SANTOS",
+      "total_representantes": 2,
+      "total_clientes": 85
+    },
+    {
+      "GERENTE": "RODRIGO OLIVEIRA",
+      "total_representantes": 2,
+      "total_clientes": 69
+    }
+  ]
+}

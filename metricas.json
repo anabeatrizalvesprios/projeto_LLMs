@@ -1,0 +1,404 @@
+{
+  "representantes": [
+    {
+      "codigo": 1,
+      "nome": "REPRESENTANTE A",
+      "regiao": "SUL",
+      "gerente": "MARCOS SILVA",
+      "supervisora": "ANA REGINA",
+      "total_clientes": 20,
+      "clientes_por_estado": {
+        "SP": 3,
+        "RJ": 3,
+        "CE": 2,
+        "DF": 2,
+        "PE": 1,
+        "AM": 1,
+        "GO": 1,
+        "PA": 1,
+        "MA": 1,
+        "AL": 1,
+        "MG": 1,
+        "PR": 1,
+        "RS": 1,
+        "BA": 1
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 20
+      },
+      "top_cnaes": {
+        "4619-2/00": 4,
+        "4713-0/02": 4,
+        "6201-5/01": 3
+      }
+    },
+    {
+      "codigo": 2,
+      "nome": "REPRESENTANTE B",
+      "regiao": "SUDESTE",
+      "gerente": "ALESSANDRA SOUZA",
+      "supervisora": "CARLA REIS",
+      "total_clientes": 65,
+      "clientes_por_estado": {
+        "SP": 12,
+        "RJ": 11,
+        "PE": 4,
+        "AM": 4,
+        "GO": 4,
+        "PA": 4,
+        "MA": 4,
+        "AL": 4,
+        "MG": 3,
+        "PR": 3,
+        "RS": 3,
+        "BA": 3,
+        "CE": 3,
+        "DF": 3
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 65
+      },
+      "top_cnaes": {
+        "6201-5/01": 11,
+        "7020-4/00": 11,
+        "7319-0/02": 11
+      }
+    },
+    {
+      "codigo": 3,
+      "nome": "REPRESENTANTE C",
+      "regiao": "CENTRO-OESTE",
+      "gerente": "RODRIGO OLIVEIRA",
+      "supervisora": "JULIANA LIMA",
+      "total_clientes": 34,
+      "clientes_por_estado": {
+        "RJ": 5,
+        "SP": 5,
+        "MG": 2,
+        "PR": 2,
+        "RS": 2,
+        "BA": 2,
+        "CE": 2,
+        "DF": 2,
+        "PE": 2,
+        "AM": 2,
+        "GO": 2,
+        "PA": 2,
+        "MA": 2,
+        "AL": 2
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 34
+      },
+      "top_cnaes": {
+        "4713-0/02": 6,
+        "6201-5/01": 6,
+        "7020-4/00": 6
+      }
+    },
+    {
+      "codigo": 4,
+      "nome": "REPRESENTANTE D",
+      "regiao": "NORDESTE",
+      "gerente": "PATRICIA COSTA",
+      "supervisora": "BEATRIZ MELO",
+      "total_clientes": 81,
+      "clientes_por_estado": {
+        "RJ": 14,
+        "SP": 13,
+        "MG": 5,
+        "PR": 5,
+        "RS": 5,
+        "BA": 5,
+        "CE": 5,
+        "DF": 5,
+        "PE": 4,
+        "AM": 4,
+        "GO": 4,
+        "PA": 4,
+        "MA": 4,
+        "AL": 4
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 81
+      },
+      "top_cnaes": {
+        "8211-3/00": 14,
+        "4619-2/00": 14,
+        "4713-0/02": 14
+      }
+    },
+    {
+      "codigo": 5,
+      "nome": "REPRESENTANTE E",
+      "regiao": "NORTE",
+      "gerente": "FABIO SANTOS",
+      "supervisora": "FERNANDA DIAS",
+      "total_clientes": 80,
+      "clientes_por_estado": {
+        "SP": 14,
+        "RJ": 13,
+        "PE": 5,
+        "AM": 5,
+        "GO": 5,
+        "PA": 5,
+        "MA": 5,
+        "AL": 4,
+        "MG": 4,
+        "PR": 4,
+        "RS": 4,
+        "BA": 4,
+        "CE": 4,
+        "DF": 4
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 80
+      },
+      "top_cnaes": {
+        "6201-5/01": 14,
+        "7020-4/00": 14,
+        "7319-0/02": 13
+      }
+    },
+    {
+      "codigo": 6,
+      "nome": "REPRESENTANTE F",
+      "regiao": "SUL",
+      "gerente": "MARCOS SILVA",
+      "supervisora": "ANA REGINA",
+      "total_clientes": 17,
+      "clientes_por_estado": {
+        "SP": 4,
+        "RJ": 2,
+        "AL": 1,
+        "MG": 1,
+        "PR": 1,
+        "RS": 1,
+        "BA": 1,
+        "CE": 1,
+        "DF": 1,
+        "PE": 1,
+        "AM": 1,
+        "GO": 1,
+        "PA": 1
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 17
+      },
+      "top_cnaes": {
+        "4619-2/00": 4,
+        "7319-0/02": 3,
+        "8211-3/00": 3
+      }
+    },
+    {
+      "codigo": 7,
+      "nome": "REPRESENTANTE G",
+      "regiao": "SUDESTE",
+      "gerente": "ALESSANDRA SOUZA",
+      "supervisora": "CARLA REIS",
+      "total_clientes": 36,
+      "clientes_por_estado": {
+        "RJ": 6,
+        "SP": 6,
+        "MA": 2,
+        "AL": 2,
+        "MG": 2,
+        "PR": 2,
+        "RS": 2,
+        "BA": 2,
+        "CE": 2,
+        "DF": 2,
+        "PE": 2,
+        "AM": 2,
+        "GO": 2,
+        "PA": 2
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 36
+      },
+      "top_cnaes": {
+        "6201-5/01": 6,
+        "7020-4/00": 6,
+        "7319-0/02": 6
+      }
+    },
+    {
+      "codigo": 8,
+      "nome": "REPRESENTANTE H",
+      "regiao": "CENTRO-OESTE",
+      "gerente": "RODRIGO OLIVEIRA",
+      "supervisora": "JULIANA LIMA",
+      "total_clientes": 35,
+      "clientes_por_estado": {
+        "RJ": 6,
+        "SP": 5,
+        "MA": 2,
+        "AL": 2,
+        "MG": 2,
+        "PR": 2,
+        "RS": 2,
+        "BA": 2,
+        "CE": 2,
+        "DF": 2,
+        "PE": 2,
+        "AM": 2,
+        "GO": 2,
+        "PA": 2
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 35
+      },
+      "top_cnaes": {
+        "6201-5/01": 6,
+        "7020-4/00": 6,
+        "7319-0/02": 6
+      }
+    },
+    {
+      "codigo": 9,
+      "nome": "REPRESENTANTE I",
+      "regiao": "NORDESTE",
+      "gerente": "PATRICIA COSTA",
+      "supervisora": "BEATRIZ MELO",
+      "total_clientes": 65,
+      "clientes_por_estado": {
+        "RJ": 10,
+        "SP": 9,
+        "MG": 4,
+        "PR": 4,
+        "RS": 4,
+        "BA": 4,
+        "CE": 4,
+        "DF": 4,
+        "PE": 4,
+        "AM": 4,
+        "GO": 4,
+        "PA": 4,
+        "MA": 3,
+        "AL": 3
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 65
+      },
+      "top_cnaes": {
+        "4713-0/02": 11,
+        "6201-5/01": 11,
+        "7020-4/00": 11
+      }
+    },
+    {
+      "codigo": 10,
+      "nome": "REPRESENTANTE J",
+      "regiao": "NORTE",
+      "gerente": "FABIO SANTOS",
+      "supervisora": "FERNANDA DIAS",
+      "total_clientes": 5,
+      "clientes_por_estado": {
+        "SP": 2,
+        "MA": 1,
+        "RJ": 1,
+        "AL": 1
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 5
+      },
+      "top_cnaes": {
+        "4619-2/00": 1,
+        "4713-0/02": 1,
+        "6201-5/01": 1
+      }
+    },
+    {
+      "codigo": 11,
+      "nome": "REPRESENTANTE K",
+      "regiao": "SUL",
+      "gerente": "MARCOS SILVA",
+      "supervisora": "ANA REGINA",
+      "total_clientes": 33,
+      "clientes_por_estado": {
+        "SP": 6,
+        "RJ": 5,
+        "MG": 2,
+        "PR": 2,
+        "RS": 2,
+        "BA": 2,
+        "CE": 2,
+        "DF": 2,
+        "PE": 2,
+        "AM": 2,
+        "GO": 2,
+        "PA": 2,
+        "MA": 1,
+        "AL": 1
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 33
+      },
+      "top_cnaes": {
+        "8211-3/00": 6,
+        "4619-2/00": 6,
+        "4713-0/02": 6
+      }
+    },
+    {
+      "codigo": 12,
+      "nome": "REPRESENTANTE L",
+      "regiao": "SUDESTE",
+      "gerente": "ALESSANDRA SOUZA",
+      "supervisora": "CARLA REIS",
+      "total_clientes": 28,
+      "clientes_por_estado": {
+        "RJ": 6,
+        "SP": 4,
+        "MA": 2,
+        "AL": 2,
+        "MG": 2,
+        "PR": 2,
+        "RS": 2,
+        "BA": 2,
+        "CE": 1,
+        "DF": 1,
+        "PE": 1,
+        "AM": 1,
+        "GO": 1,
+        "PA": 1
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 28
+      },
+      "top_cnaes": {
+        "6201-5/01": 5,
+        "7020-4/00": 5,
+        "7319-0/02": 5
+      }
+    }
+  ],
+  "gerentes": [
+    {
+      "GERENTE": "ALESSANDRA SOUZA",
+      "total_representantes": 3,
+      "total_clientes": 129
+    },
+    {
+      "GERENTE": "MARCOS SILVA",
+      "total_representantes": 3,
+      "total_clientes": 70
+    },
+    {
+      "GERENTE": "PATRICIA COSTA",
+      "total_representantes": 2,
+      "total_clientes": 146
+    },
+    {
+      "GERENTE": "FABIO SANTOS",
+      "total_representantes": 2,
+      "total_clientes": 85
+    },
+    {
+      "GERENTE": "RODRIGO OLIVEIRA",
+      "total_representantes": 2,
+      "total_clientes": 69
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "representantes": [
+    {
+      "codigo": 1,
+      "nome": "REPRESENTANTE A",
+      "regiao": "SUDESTE",
+      "gerente": "CARLOS SILVA",
+      "supervisora": "ANA SOUZA",
+      "total_clientes": 20,
+      "clientes_por_estado": {
+        "SP": 3,
+        "RJ": 3,
+        "CE": 2,
+        "DF": 2,
+        "PE": 1,
+        "AM": 1,
+        "GO": 1,
+        "PA": 1,
+        "MA": 1,
+        "AL": 1,
+        "MG": 1,
+        "PR": 1,
+        "RS": 1,
+        "BA": 1
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 12,
+        "SUSPENSA": 4,
+        "BAIXADA": 4
+      },
+      "top_cnaes": {
+        "4619-2/00": 4,
+        "4713-0/02": 4,
+        "6201-5/01": 3
+      },
+      "resumo_executivo": "O Representante A apresenta uma carteira com excessiva dispersão geográfica, pulverizada em 14 estados, com apenas 35% dos clientes concentrados em sua região de atuação designada (Sudeste). A saúde da base cadastral requer atenção crítica, uma vez que 40% dos clientes estão inoperantes, sendo 4 suspensos e 4 baixados, restando apenas 12 contas ativas. Essa baixa densidade de clientes ativos combinada à fragmentação territorial compromete a eficiência das rotas de atendimento e dilui o foco comercial. Recomenda-se realizar o saneamento imediato da base inativa e reorientar os esforços de prospecção para consolidar a presença regional no Sudeste."
+    },
+    {
+      "codigo": 2,
+      "nome": "REPRESENTANTE B",
+      "regiao": "SUL",
+      "gerente": "MARIANA COSTA",
+      "supervisora": "JULIANA LIMA",
+      "total_clientes": 65,
+      "clientes_por_estado": {
+        "SP": 12,
+        "RJ": 11,
+        "PE": 4,
+        "AM": 4,
+        "GO": 4,
+        "PA": 4,
+        "MA": 4,
+        "AL": 4,
+        "MG": 3,
+        "PR": 3,
+        "RS": 3,
+        "BA": 3,
+        "CE": 3,
+        "DF": 3
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 46,
+        "SUSPENSA": 11,
+        "BAIXADA": 8
+      },
+      "top_cnaes": {
+        "6201-5/01": 11,
+        "7020-4/00": 11,
+        "7319-0/02": 11
+      },
+      "resumo_executivo": "O Representante B apresenta uma atuação amplamente dispersa em 14 estados, mas com evidente desalinhamento territorial, já que está alocado na região Sul e mantém mais de 35% da sua carteira concentrada no Sudeste (SP e RJ somam 23 clientes), com apenas 6 contas nos estados do Sul. A saúde da base demanda atenção imediata, pois aproximadamente 29% dos clientes encontram-se inaptos, somando 11 cadastros suspensos e 8 baixados contra 46 ativos. Esse volume expressivo de inatividade restringe o potencial de receita, ainda que haja boa aderência nos segmentos de tecnologia, consultoria e publicidade. Recomenda-se um saneamento urgente da carteira para recuperação ou expurgo de contas inativas, aliado a uma revisão estratégica da cobertura geográfica junto à gestão."
+    },
+    {
+      "codigo": 3,
+      "nome": "REPRESENTANTE C",
+      "regiao": "NORDESTE",
+      "gerente": "ROBERTO ALVES",
+      "supervisora": "CAMILA RIBEIRO",
+      "total_clientes": 34,
+      "clientes_por_estado": {
+        "RJ": 5,
+        "SP": 5,
+        "MG": 2,
+        "PR": 2,
+        "RS": 2,
+        "BA": 2,
+        "CE": 2,
+        "DF": 2,
+        "PE": 2,
+        "AM": 2,
+        "GO": 2,
+        "PA": 2,
+        "MA": 2,
+        "AL": 2
+      },
+      "clientes_por_situacao": {
+        "ATIVA": 23,
+        "SUSPENSA": 6,
+        "BAIXADA": 5
+      },
+      "top_cnaes": {
+        "4713-0/02": 6,
+        "6201-5/01": 6,
+        "7020-4/00": 6
+      },
+      "resumo_executivo": "Apesar de estar formalmente alocado na região Nordeste, o Representante C apresenta uma atuação altamente dispersa em 14 estados de diferentes regiões do país, com sua maior concentração situada no Sudeste (RJ e SP, com 5 clientes cada) e pouca densidade em sua área de origem. No que tange à saúde da carteira, há um ponto crítico de atenção: aproximadamente 32% da base total encontra-se inabilitada comercialmente, somando 6 clientes suspensos e 5 baixados. Essa expressiva taxa de inatividade reduz o potencial produtivo a apenas 23 contas ativas, exigindo um esforço urgente de higienização cadastral. Recomenda-se uma intervenção da gerência para reestruturar o foco geográfico do representante e recuperar ou substituir os clientes inaptos, aumentando a eficiência das operações."
+    }
+  ],
+  "gerentes": [
+    {
+      "GERENTE": "MARIANA COSTA",
+      "total_representantes": 1,
+      "total_clientes": 65
+    },
+    {
+      "GERENTE": "ROBERTO ALVES",
+      "total_representantes": 1,
+      "total_clientes": 34
+    },
+    {
+      "GERENTE": "CARLOS SILVA",
+      "total_representantes": 1,
+      "total_clientes": 20
+    }
+  ]
+}
