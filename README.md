@@ -1,6 +1,6 @@
 # Análise de Representantes com LLM
 
-Mini-projeto desenvolvido para responder, com um exemplo prático, à pergunta sobre experiência com LLMs de um processo seletivo de estágio.
+Mini-projeto desenvolvido para experiência com LLMs.
 
 ## Objetivo
 
@@ -8,7 +8,7 @@ Transformar dados tabulares (planilhas de representantes comerciais e de cliente
 
 ## Dados utilizados
 
-Duas planilhas com dados reais de uma empresa (projeto Geokidy), **anonimizadas antes do uso** — nomes de representantes, gerentes e supervisores foram substituídos por identificadores fictícios (ex: "Representante A") antes de qualquer chamada à API externa.
+Duas planilhas com dados fictícios de uma empresa (projeto CRM) — nomes de representantes, gerentes e supervisores fictícios (ex: "Representante A") antes de qualquer chamada à API externa.
 
 - **Base de representantes**: Região, Código, Nome, Gerente, Supervisora Interna
 - **Base de clientes**: Código do representante, CNPJ, Razão Social, Situação Cadastral (ATIVA/SUSPENSA/BAIXADA), Cidade, Estado, CNAE Principal, entre outros
